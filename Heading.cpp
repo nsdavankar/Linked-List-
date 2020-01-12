@@ -1,7 +1,7 @@
 /*****************************************************************************
 * AUTHOR		: Nisha Davankar
-* STUDENT ID	: 1045735
-* Assignment #4	: Search Linked Lists
+* STUDENT ID		: 1045735
+* Assignment #4		: Search Linked Lists
 * CLASS			: CS1B
 * SECTION		: M/W: 6:30pm- 10pm
 * DUE DATE		: 11/6/17
@@ -35,7 +35,7 @@ void PrintHeader(ostream  &out,			// IN/OUT - output file
 				 string   clTime,		// IN     - class day/time to output
 				 string   asName,		// IN     - assignment name to output
 				 char     asType,		// IN     - assignment type
-			   	 int      asNum)		// IN     – assign. number to output
+			   	 int      asNum)		// IN     â€“ assign. number to output
 {
 	out << left;
 	out << "*************************************************\n";
@@ -44,8 +44,8 @@ void PrintHeader(ostream  &out,			// IN/OUT - output file
 	out << "*  " << setw(14) << "SECTION" << ": " << clTime << endl;
 	out << "*  ";
 
-	// PROCESSING – This will adjust setws and format appropriately
-	// based on if this is a lab ‘L’ or assignment
+	// PROCESSING â€“ This will adjust setws and format appropriately
+	// based on if this is a lab â€˜Lâ€™ or assignment
 
 	if (toupper(asType) == 'L')
 	{

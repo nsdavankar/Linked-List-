@@ -1,7 +1,7 @@
 /*****************************************************************************
 * AUTHOR		: Nisha Davankar
-* STUDENT ID	: 1045735
-* Assignment #4	: Search Linked Lists
+* STUDENT ID		: 1045735
+* Assignment #4	:	: Search Linked Lists
 * CLASS			: CS1B
 * SECTION		: M/W: 6:30pm- 10pm
 * DUE DATE		: 11/6/17
